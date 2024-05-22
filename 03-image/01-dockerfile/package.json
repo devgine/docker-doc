@@ -1,0 +1,11 @@
+{
+  "name": "pingpong",
+  "version": "0.0.1",
+  "main": "pong.js",
+  "scripts": {
+    "start": "node pong"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
